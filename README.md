@@ -1,2 +1,5 @@
 # Hytale Template Mod
-Please note that Hytale has not yet been released at the time of writing this message, so there is nothing here yet, BUT the game will be released VERY soon.  https://hytale.com/countdown
+
+Please note that as I write this, there is a HUGE CHANCE that I am wrong, as this is more theoretical than practical, since Hytale has not yet been released to the general public. Thank you for your understanding.
+
+https://hytale.com/countdown
