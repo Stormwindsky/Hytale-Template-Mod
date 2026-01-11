@@ -1,0 +1,9 @@
+{
+  "id": "template_mod_id",
+  "name": "Template Mod Name",
+  "version": "1.0.0",
+  "author": "Stormwindsky",
+  "description": "A starter kit for Hytale modding.",
+  "license": "CC0-1.0",
+  "website": "https://github.com/Stormwindsky/Hytale-Template-Mod"
+}
