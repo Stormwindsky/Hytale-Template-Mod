@@ -1,5 +1,7 @@
 # Hytale Template Mod
 
-Please note that as I write this, there is a HUGE CHANCE that I am wrong, as this is more theoretical than practical, since Hytale has not yet been released to the general public. Thank you for your understanding.
+This template is under construction. I will make it better later.
 
-https://hytale.com/countdown
+bc... yeah
+
+This template is not affiliated with Hypixel Studio or Simon. It was created by a fan named Stormwindsky. 
