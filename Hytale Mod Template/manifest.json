@@ -1,0 +1,20 @@
+{
+  "Group": "Name group here",
+  "Name": "Hytale mod template",
+  "Version": "1.0.0",
+  "Description": "Mod descriptions here",
+  "Authors": [
+    {
+      "Name": "Author name here",
+      "Email": "Email here (optional)",
+      "Url": "URL here (optional)"
+    }
+  ],
+  "Website": "Website here",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
